@@ -5,11 +5,11 @@ i-CD Rental Website (Simple)
 UNFINISH SIMPLE WEBSITE PROJECT
 
 Contributor
-1. Goes Tri Yadi (Coding)
-2. Jerrel Gianni Sondjaja (Coding)
-3. Muhammad Alwi Shihab (Security+Coding)
-4. M. Shabirin (Design Interface)
-5. Rahmadhika (Database SQL)
+1. Goes Tri Yadi (Coding) 
+2. Jerrel Gianni Sondjaja (Coding) https://github.com/RRREEEIII
+3. Muhammad Alwi Shihab (Security+Coding) https://github.com/wishihab/
+4. M. Shabirin (Design Interface) https://github.com/labirin
+5. Rahmadhika (Database SQL) https://github.com/lancestrom
 
 This is a simple website project by FangshanTeam
 
