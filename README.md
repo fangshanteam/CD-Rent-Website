@@ -25,4 +25,4 @@ All design or resource taken from open source project.
 - Database MYSQL
 
 
-
+There is a lot bug or vuln code.
