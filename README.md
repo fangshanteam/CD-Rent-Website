@@ -14,8 +14,9 @@ Contributor
 This is a simple website project by FangshanTeam
 
 - Interface Folder include PHP code of the website
-- .sql SQL file database (we use MariaDB)
-
+- film.sql SQL file database (we use MariaDB)
+  user : admin pass: alwi
+  user : guest pass: guest
 
 
 All design or resource taken from open source project.
