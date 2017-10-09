@@ -23,6 +23,7 @@ All design or resource taken from open source project.
 - Coding use PHP and HTML
 - Security user database use MYSQL encrypter PASSWORD('')
 - Database MYSQL
+- English and Bahasa Language name file.
 
 
 There is a lot bug or vuln code.
