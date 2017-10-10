@@ -1,5 +1,5 @@
 # CD-Rent-Website
-i-CD Rental Website (Simple)
+i-CD Rental Website (Simple) builded Apr2016
 
 
 UNFINISH SIMPLE WEBSITE PROJECT
@@ -22,7 +22,7 @@ This is a simple website project by FangshanTeam
 All design or resource taken from open source project.
 
 - Coding use PHP and HTML
-- Security user database use MYSQL encrypter PASSWORD('')
+- Security user database use MYSQL encrypter PASSWORD('') this can't be decrypt
 - Database MYSQL
 - English and Bahasa Language name file.
 
