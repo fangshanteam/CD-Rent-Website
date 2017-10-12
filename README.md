@@ -1,5 +1,5 @@
 # CD-Rent-Website
-i-CD Rental Website (Simple) builded Apr2016
+i-CD Rental Website (Simple) builded Apr2016 for Website and Database Programming (Course Project)
 
 
 UNFINISH SIMPLE WEBSITE PROJECT
