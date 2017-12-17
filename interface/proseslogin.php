@@ -7,9 +7,17 @@ if(!isset($_SESSION['username'])) {
    $username = $_SESSION['username'];
 
 }
+
+function fix_inject($data){
+
+$filter = stripslashes(strip_tags(htmlspecialchars($data,ENT_QUOTES)));
+
+return $filter;
+
+}
    
-   $username = $_POST['username'];
-   $password = $_POST['password'];
+   $username = fix_inject($_POST['username']);
+   $password = fix_inject($_POST['password']);
 
    
    $sql = "SELECT * FROM user WHERE username='$username' AND password=password('$password')";
