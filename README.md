@@ -24,6 +24,7 @@ All design or resource taken from open source project.
 
 - Coding use PHP and HTML
 - Security user database use MYSQL encrypter PASSWORD('') this can't be decrypt
+- Security login protected from cheat sheet (Updated Dec 17 2017)
 - Database MYSQL
 - English and Bahasa Language name file.
 
