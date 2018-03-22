@@ -2,6 +2,7 @@
 i-CD Rental Website (Simple) builded Apr2016 for Website and Database Programming (Course Project)
 
 Demo : https://wishihab.github.io/CD-Rent-Website/interface/
+Original Interface : https://github.com/labirin/UI-ICDdianying
 
 UNFINISH SIMPLE WEBSITE PROJECT
 
