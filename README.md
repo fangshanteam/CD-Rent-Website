@@ -7,7 +7,7 @@ Original Interface : https://github.com/labirin/UI-ICDdianying
 UNFINISH SIMPLE WEBSITE PROJECT
 
 Contributor
-1. Goes Tri Yadi (Coding) 
+1. Goes Tri Yadi (Coding) https://github.com/goestriyadi
 2. Jerrel Gianni Sondjaja (Coding) https://github.com/RRREEEIII
 3. Muhammad Alwi Shihab (Security+Coding) https://github.com/wishihab/
 4. M. Shabirin (Design Interface) https://github.com/labirin
