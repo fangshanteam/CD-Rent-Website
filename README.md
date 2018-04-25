@@ -34,5 +34,5 @@ There is a lot bug or vuln code.
 
 
 Our university :
-- Nanjing Xiaozhuang University in China, Fangshan Nanjing
-- Esa Unggul University in Indonesia, Kebon Jeruk Jakarta
+- Nanjing Xiaozhuang University in China, Fangshan Nanjing, China
+- Esa Unggul University in Indonesia, Kebon Jeruk Jakarta, Indonesia
