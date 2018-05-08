@@ -7,11 +7,11 @@ Original Interface : https://github.com/labirin/UI-ICDdianying
 UNFINISH SIMPLE WEBSITE PROJECT
 
 Contributor
-1. Goes Tri Yadi (Coding) https://github.com/goestriyadi
-2. Jerrel Gianni Sondjaja (Coding) https://github.com/RRREEEIII
-3. Muhammad Alwi Shihab (Security+Coding) https://github.com/wishihab/
-4. M. Shabirin (Design Interface) https://github.com/labirin
-5. Rahmadhika (Database SQL) https://github.com/lancestrom
+1. [Goes Tri Yadi](https://github.com/goestriyadi) CODE
+2. [Jerrel Gianni Sondjaja](https://github.com/RRREEEIII) CODE
+3. [Muhammad Alwi Shihab](https://github.com/wishihab/) SECURITY+CODE
+4. [M. Shabirin](https://github.com/labirin) DESIGN INTERFACE
+5. [Rahmadhika](https://github.com/lancestrom) DATABASE
 
 This is a simple website project by FangshanTeam
 
