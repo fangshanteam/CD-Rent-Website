@@ -4,7 +4,7 @@ i-CD Rental Website (Simple) builded Apr2016 for Website and Database Programmin
 Demo : https://wishihab.github.io/CD-Rent-Website/interface/
 Original Interface : https://github.com/labirin/UI-ICDdianying
 
-UNFINISH SIMPLE WEBSITE PROJECT
+UNFINISH SIMPLE WEBSITE PROJECT *Vuln and Bug*
 
 Contributor
 1. Goes Tri Yadi (Coding) https://github.com/goestriyadi
@@ -30,7 +30,6 @@ All design or resource taken from open source project.
 - English and Bahasa Language name file.
 
 
-There is a lot bug or vuln code.
 
 
 Our university :
