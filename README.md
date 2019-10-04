@@ -5,7 +5,7 @@ i-CD Rental Website (Simple) builded Apr2016 for Website and Database Programmin
 - [Original Interface](https://github.com/labirin/UI-ICDdianying)
 
 
-UNFINISH SIMPLE WEBSITE PROJECT
+UNFINISH SIMPLE WEBSITE PROJECT *Vuln and Bug*
 
 Contributor
 1. [Goes Tri Yadi](https://github.com/goestriyadi) CODE
@@ -30,8 +30,6 @@ All design or resource taken from open source project.
 - Database MYSQL
 - English and Bahasa Language name file.
 
-
-There is a lot bug or vuln code.
 
 
 Our university :
