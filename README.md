@@ -4,6 +4,7 @@ i-CD Rental Website (Simple) builded Apr2016 for Website and Database Programmin
 Demo : https://wishihab.github.io/CD-Rent-Website/interface/
 Original Interface : https://github.com/labirin/UI-ICDdianying
 
+
 UNFINISH SIMPLE WEBSITE PROJECT *Vuln and Bug*
 
 Contributor
@@ -13,7 +14,7 @@ Contributor
 4. M. Shabirin (Design Interface) https://github.com/labirin
 5. Rahmadhika (Database SQL) https://github.com/lancestrom
 
-This is a simple website project by FangshanTeam
+This is a simple website project by FangshanTeam2016 Nanjing China
 
 - Interface Folder include PHP code of the website
 - film.sql SQL file database (we use MariaDB)
@@ -28,7 +29,6 @@ All design or resource taken from open source project.
 - Security login protected from cheat sheet
 - Database MYSQL
 - English and Bahasa Language name file.
-
 
 
 Our university :
