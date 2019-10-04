@@ -31,7 +31,6 @@ All design or resource taken from open source project.
 
 
 
-
 Our university :
 - Nanjing Xiaozhuang University in China, Fangshan Nanjing
 - Esa Unggul University in Indonesia, Kebon Jeruk Jakarta
