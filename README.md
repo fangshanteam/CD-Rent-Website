@@ -30,8 +30,6 @@ All design or resource taken from open source project.
 - English and Bahasa Language name file.
 
 
-
-
 Our university :
-- Nanjing Xiaozhuang University in China, Fangshan Nanjing
-- Esa Unggul University in Indonesia, Kebon Jeruk Jakarta
+- Nanjing Xiaozhuang University in China, Fangshan Nanjing http://www.njxzc.edu.cn/
+- Esa Unggul University in Indonesia, Kebon Jeruk Jakarta https://esaunggul.ac.id/
